@@ -35,3 +35,7 @@
 
 ### **8. Admin Panel**  
 - Manage products, users, and orders  
+
+## Home page
+
+<img src="images/homepage.png">

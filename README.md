@@ -1,2 +1,17 @@
 # Smart Plants Ordering and Gardening Essentials Store
-## The "Smart Plants Ordering and Gardening Essentials Store" is an e-commerce platform designed for plant lovers and gardening enthusiasts. The platform enables users to browse, order plants, and purchase gardening essentials online.
+
+
+## Home page
+<img src="images/homepage.png">
+
+## Login page
+<img src="images/loginpage.png">
+
+## Plants Ordering Page
+<img src="images/plantsorder.png">
+
+## Seeds Ordering Page
+<img src="images/seedsorder.png">
+
+## Pots Ordering Page
+<img src="images/potsorder.png">

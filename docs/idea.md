@@ -86,4 +86,5 @@ Homepage
   |--> Contact Seller --> Messaging System
   |--> Checkout --> Order Summary --> Payment
 ```
-
+## Home page
+<img src="images/homepage.png">
